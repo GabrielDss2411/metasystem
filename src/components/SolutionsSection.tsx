@@ -123,8 +123,8 @@ export const SolutionsSection: React.FC = () => {
                   <a
                     href="#contact"
                     className="inline-flex items-center text-sm font-medium blue-600 hover: blue-600"
-                  >
-                    Learn more about this solution
+                  >                    
+                    Saiba mais sobre esta solução
                     <svg
                       className="ml-1 w-4 h-4"
                       fill="none"

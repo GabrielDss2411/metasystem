@@ -18,7 +18,7 @@ export const HeroSection: React.FC = () => {
           <div className="flex flex-col max-w-2xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6 tracking-tight">
             <span className='blue-600'> Treinamento Marítimo Inteligente. </span> 
-              <span className="text-orange-600">  Impulsionado por IA.</span>
+              <span className="text-orange-600">  teste</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 mb-8 leading-relaxed">
               Revolucionando o treinamento e as operações marítimas por meio de sistemas inteligentes, tecnologias imersivas e soluções digitais de alto impacto.
