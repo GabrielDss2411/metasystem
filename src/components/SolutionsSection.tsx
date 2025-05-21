@@ -75,7 +75,7 @@ export const SolutionsSection: React.FC = () => {
           
           <div className="relative w-full max-w-2xl mx-auto rounded-2xl overflow-hidden mb-16">
             <img
-              src="./src/components/logo/fundo2.jpg"
+              src="https://github.com/GabrielDss2411/metasystem/blob/main/logo/fundo2.jpg?raw=true"
               alt="Virtual Reality Training"
               className="w-full h-64 object-cover"
             />

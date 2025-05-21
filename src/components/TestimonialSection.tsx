@@ -18,7 +18,7 @@ export const TestimonialSection: React.FC = () => {
       author: 'Rogério Soares',
       role: 'Diretor Geral',
       company: 'Hunters Manpower',
-      image: './src/components/logo/maninho.jpg',
+      image: 'https://github.com/GabrielDss2411/metasystem/blob/main/logo/maninho.jpg?raw=true',
     },
     {
       quote:
@@ -26,7 +26,7 @@ export const TestimonialSection: React.FC = () => {
       author: 'Ivan Instrutor',
       role: 'Presidente',
       company: 'Associação de Marítimos e Offshores do Brasil (AMOB)',
-      image: './src/components/logo/ivan.jpg',
+      image: 'https://github.com/GabrielDss2411/metasystem/blob/main/logo/ivan.jpg?raw=true',
     },
     {
       quote:
