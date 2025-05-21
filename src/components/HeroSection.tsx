@@ -42,7 +42,7 @@ export const HeroSection: React.FC = () => {
           <div className="relative mx-auto max-w-md lg:max-w-none">
             <div className="relative rounded-2xl overflow-hidden aspect-video shadow-lg">
               <img
-                src="./src/components/logo/fundobloco1.jpg"
+                src="/src/components/logo/fundobloco1.jpg"
                 alt="Maritime training with advanced technology"
                 className="w-full h-full object-cover mix-blend-overlay opacity-90"
               />
