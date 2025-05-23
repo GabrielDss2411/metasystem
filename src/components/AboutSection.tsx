@@ -30,7 +30,7 @@ export const AboutSection: React.FC = () => {
             },
             {
               icon: <LineChart className="h-10 w-10 text-purple-600" />,
-              title: 'Melhorias Contínua',
+              title: 'Melhorias Contínuas',
               description:
                 'Nossos sistemas evoluem continuamente com base nos desenvolvimentos do setor e nos dados de desempenho do usuário, mantendo o conteúdo de treinamento sempre atualizado.',
             },
